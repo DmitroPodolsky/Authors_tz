@@ -1,0 +1,14 @@
+data/*
+.flake8
+.gitignore
+.pre-commit-config.yaml
+.pylintrc
+poetry.lock
+pyproject.toml
+**/__pycache__
+**/venv
+**/.git
+dockerfile
+README.md
+docker-compose.yml
+docker-compose-local.yml
