@@ -1,0 +1,10 @@
+.env
+venv
+__pycache__
+*.pyc
+.vscode
+app/db/migrations/versions/*
+!app/db/migrations/versions/.gitkeep
+static/*
+!static/.gitkeep
+db/*
